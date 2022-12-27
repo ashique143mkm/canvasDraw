@@ -1,0 +1,17 @@
+//npm install
+    yarn
+
+//install react bootstrap
+    yarn add react-bootstrap
+
+//for canvas
+    yarn add react-canvas-draw
+
+<script src="https://kit.fontawesome.com/789041a9d5.js" crossorigin="anonymous"></script>
+    yarn add @fortawesome/fontawesome-svg-core
+    yarn add @fortawesome/free-solid-svg-icons
+    yarn add @fortawesome/react-fontawesome
+
+//upload images
+   yarn add react-images-uploading
+   https://www.npmjs.com/package/react-images-uploading/v/3.0.0
